@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674345345723",
+    "firebase_url": "https://buyonline-ace55.firebaseio.com",
+    "project_id": "buyonline-ace55",
+    "storage_bucket": "buyonline-ace55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674345345723:android:e7601980a8f65db958bf9e",
+        "android_client_info": {
+          "package_name": "com.example.buyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674345345723-ad0gtkfgsdjlm0pk4ea4prcsbmup5thv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buyonline",
+            "certificate_hash": "cb6ec824faefe7a3ae19dff7abecf84148f957da"
+          }
+        },
+        {
+          "client_id": "674345345723-557p14p9p9g1tp3orjd6h4g8qthavqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ceyIipPoLeTfashy0GW5JvDjTtrlTPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674345345723-557p14p9p9g1tp3orjd6h4g8qthavqfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
