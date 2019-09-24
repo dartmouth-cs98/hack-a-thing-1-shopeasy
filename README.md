@@ -1,6 +1,3 @@
-# hack-a-thing-1-shopeasy
-hack-a-thing-1-shopeasy created by GitHub Classroom
-
 #### Description
 ShopEasy is an attempt at creating an e-Commerce Android App using Android Studio (I used Java for the back-end). In this first hack, I focused on the selling part of the app where sellers can upload products with images.
 
